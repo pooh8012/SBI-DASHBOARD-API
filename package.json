@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node api.js",
-    "start": "node api.js"
+    "start": "node api.js",
+    "build": "node api.js"
   },
   "keywords": [],
   "author": "",
